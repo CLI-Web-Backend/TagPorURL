@@ -1,0 +1,15 @@
+{
+    "name": "vinicius/tag-por-url",
+    "autoload": {
+        "psr-4": {
+            "Vinicius\\TagPorUrl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinícius Bruno",
+            "email": "117596069+vinimercesbr@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
