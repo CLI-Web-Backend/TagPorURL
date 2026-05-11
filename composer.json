@@ -11,5 +11,7 @@
             "email": "117596069+vinimercesbr@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {
+        "imangazaliev/didom": "^2.0"
+    }
 }
